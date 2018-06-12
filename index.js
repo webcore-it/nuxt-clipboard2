@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = function nuxtClipboard(moduleOptions) {
-  const options = Object.assign({}, this.options.toast, moduleOptions);
+  const options = Object.assign({}, moduleOptions);
 
   // Register plugin
   this.addPlugin({
