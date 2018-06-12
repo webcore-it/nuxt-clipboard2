@@ -1,7 +1,14 @@
 {
   "name": "nuxt-clipboard2",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "license": "MIT",
+  "keywords": [
+    "copy",
+    "vue",
+    "nuxt",
+    "clipboard2",
+    "vue-clipboard2"
+  ],
   "main": "index.js",
   "repository": "https://github.com/webcore-it/nuxt-clipboard2",
   "homepage": "https://github.com/webcore-it/nuxt-clipboard2",
