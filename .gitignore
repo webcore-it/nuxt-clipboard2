@@ -18,5 +18,9 @@ yarn-error.log*
 *.sln
 
 
+# npm settings
+/.npmrc
+
+
 # Dependency directories
 node_modules/
