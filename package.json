@@ -17,6 +17,6 @@
     "access": "public"
   },
   "dependencies": {
-    "vue-clipboard2": "0.2.1"
+    "vue-clipboard2": "0.3.1"
   }
 }
